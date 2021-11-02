@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LSPConsole", "LSPConsole\LS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LSPLibrary", "LSPLibrary\LSPLibrary.csproj", "{075061D9-E758-4210-A535-BAA97044696D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISPConsole", "ISPConsole\ISPConsole.csproj", "{29FC35C0-DD6F-4E30-9393-4DDC9D03AB31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISPLibrary", "ISPLibrary\ISPLibrary.csproj", "{F35099B6-74A9-44A2-BBDA-56599281F60D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{075061D9-E758-4210-A535-BAA97044696D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{075061D9-E758-4210-A535-BAA97044696D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{075061D9-E758-4210-A535-BAA97044696D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29FC35C0-DD6F-4E30-9393-4DDC9D03AB31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29FC35C0-DD6F-4E30-9393-4DDC9D03AB31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29FC35C0-DD6F-4E30-9393-4DDC9D03AB31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29FC35C0-DD6F-4E30-9393-4DDC9D03AB31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F35099B6-74A9-44A2-BBDA-56599281F60D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F35099B6-74A9-44A2-BBDA-56599281F60D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F35099B6-74A9-44A2-BBDA-56599281F60D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F35099B6-74A9-44A2-BBDA-56599281F60D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

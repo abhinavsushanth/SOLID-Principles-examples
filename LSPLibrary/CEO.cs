@@ -6,16 +6,12 @@ using System.Threading.Tasks;
 
 namespace LSPLibrary
 {
-    public class CEO : Employee
+    public class CEO : BaseEmployee, IManager
     {
         public override void CalculateRatePerHour(int rank)
         {
             decimal baseAmount = 100.50M;
             Salary = baseAmount * rank;
-        }
-        public override void AssignManager(Employee manager)
-        {
-            throw new InvalidOperationException("The CEO has no manager");
         }
         public void GeneratePerformanceReview()
         {

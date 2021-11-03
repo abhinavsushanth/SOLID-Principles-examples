@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISPConsole", "ISPConsole\IS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISPLibrary", "ISPLibrary\ISPLibrary.csproj", "{F35099B6-74A9-44A2-BBDA-56599281F60D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIPConsole", "DIPConsole\DIPConsole.csproj", "{B63F6661-F5FF-4AEB-9589-0D6684BD7B3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIPLibrary", "DIPLibrary\DIPLibrary.csproj", "{6FD2450F-2101-4C48-AADF-CAE9663D57AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{F35099B6-74A9-44A2-BBDA-56599281F60D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F35099B6-74A9-44A2-BBDA-56599281F60D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F35099B6-74A9-44A2-BBDA-56599281F60D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B63F6661-F5FF-4AEB-9589-0D6684BD7B3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B63F6661-F5FF-4AEB-9589-0D6684BD7B3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B63F6661-F5FF-4AEB-9589-0D6684BD7B3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B63F6661-F5FF-4AEB-9589-0D6684BD7B3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FD2450F-2101-4C48-AADF-CAE9663D57AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FD2450F-2101-4C48-AADF-CAE9663D57AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FD2450F-2101-4C48-AADF-CAE9663D57AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FD2450F-2101-4C48-AADF-CAE9663D57AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
